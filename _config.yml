@@ -32,4 +32,4 @@ kramdown:
     input: GFM
 
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-architect
